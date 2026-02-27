@@ -1,2 +1,12 @@
-# minimalist-wedding-invitation-7vfy1
-📚 Minimalist Wedding Invitation 💌 — Built with LikhaSiteWorks
+---
+title: Minimalist Wedding Invitation 💌
+colorFrom: yellow
+colorTo: yellow
+emoji: 📚
+tags:
+  - likhasiteworks
+---
+
+# Minimalist Wedding Invitation 💌
+
+This project has been created with [LikhaSiteWorks](https://likhawebsite.com) AI Vibe Coding.
